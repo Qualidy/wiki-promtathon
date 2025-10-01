@@ -31,6 +31,12 @@
     Nutzen Sie KI, um passende Formeln für eine Excelzelle zu finden
     oder eine passende bedingte Formatierung einzufügen.
 
+    Beispiel:
+
+    * Wie füge ich die Kalenderwochen ein?
+    * Wie können Anzahl eingesetzter Trainer berechnet werden?
+    * Wie können Kurse hervorgehoben werden, in denen keine/ein/mehrere Trainer sind?
+
     | KW  | von       | bis       | VZ/TZ | UE | Thema                                                                 | Bemerkung                                  | Trainer         |
     |-----|-----------|-----------|-------|----|----------------------------------------------------------------------|--------------------------------------------|-----------------|
     | 2   | 07.01.2026 | 09.01.2026 | VZ    | 24 | Kaufmännische Steuerung und Kontrolle                                |                                            | Balzer          |
