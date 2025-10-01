@@ -2,7 +2,9 @@ site_name: Basis Wiki
 
 nav:
   - Übersicht: index.md
-  - Topic 1: content/1.md
+  - Arbeitsphase A: content/A.md
+  - Arbeitsphase B: content/B.md
+  - Links: content/links.md
 
 
 theme:
@@ -23,6 +25,7 @@ theme:
     - content.code.annotate
 
 markdown_extensions:
+  - pymdownx.blocks.caption
   - pymdownx.keys
   - admonition
   - pymdownx.details
