@@ -10,4 +10,6 @@
 
 - [:fontawesome-solid-external-link: Offizielle OpenAI-Dokumentation zu Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering){ target=_blank rel="noopener noreferrer" }
 
+- [:fontawesome-solid-external-link: Schulung, um die Frage zu klären, ob Copilot 365 gebraucht wird](https://volkswagen-net.de/wikis/spaces/wbit/pages/5845582630/Microsoft+Copilot+f%C3%BCr+Microsoft+365+Brauche+ich+das){ target=_blank rel="noopener noreferrer" }
+
 

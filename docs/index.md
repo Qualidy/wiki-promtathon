@@ -10,9 +10,8 @@ hide:
 
 <div markdown>
 
-# Basis Wiki
-
 <div class="grid cards fancy grid--cols-1" markdown>
+- [:material-brain: **Prompting**](content/prompting.md)
 - [:material-alpha-a-box-outline: **Arbeitsphase A**](content/A.md)
 - [:material-alpha-b-box-outline: **Arbeitsphase B**](content/B.md)
 - [:material-link-variant: **Wertvolle Links**](content/links.md)
