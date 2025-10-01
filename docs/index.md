@@ -24,22 +24,33 @@ hide:
 
 <!-- ![](assets/Logo_Qualidy_cmyk.svg) -->
 
-# Agenda (Start 12:00 Uhr)
+??? abstract "Zeitplan für Kursbeginn um 9 Uhr"
 
-| Zeit        | Programmpunkt                                |
-|-------------|----------------------------------------------|
-| 12:00–12:10 | Motivation und Microsoft Copilot             |
-| 12:10–12:30 | Prompting Battle und Impuls Prompt Engineering |
-| 12:30–12:45 | Vorstellung der Challenges und Gruppeneinteilung |
-| 12:45–13:15 | Arbeitsphase Teil A                          |
-| 13:15–13:30 | Pause                                        |
-| 13:30–13:40 | Check-In nach der Pause                      |
-| 13:40–14:30 | Arbeitsphase Teil B                          |
-| 14:30–15:00 | Ergebnisvorstellung und Abschluss            |
+    | Zeit        | Programmpunkt                                |
+    |-------------:|:----------------------------------------------|
+    | 9:00–9:10 | Motivation und Microsoft Copilot             |
+    | 9:10–9:30 | Tipps zum Prompt Engineering                 |
+    | 9:30–10:00 | Arbeitsphase A                               |
+    | 10:00–10:15 | Ergebnissvorstellung und Diskussion          |
+    | 10:15–10:30 | **Pause**                                        |
+    | 10:30–10:40 | Check-In nach der Pause                      |
+    | 10:40–11:30 | Arbeitsphase B                               |
+    | 11:30–11:00 | Ergebnisvorstellung und Abschluss            |
 
-# Dozent
+??? abstract "Zeitplan für Kursbeginn um 12 Uhr"
 
-![BildViktor](assets/viktor.png)
+    | Zeit        | Programmpunkt                                |
+    |-------------:|----------------------------------------------|
+    | 12:00–12:10 | Motivation und Microsoft Copilot             |
+    | 12:10–12:30 | Tipps zum Prompt Engineering                 |
+    | 12:30–13:00 | Arbeitsphase A                               |
+    | 13:00–13:15 | Ergebnissvorstellung und Diskussion          |
+    | 13:15–13:30 | **Pause**                                        |
+    | 13:30–13:40 | Check-In nach der Pause                      |
+    | 13:40–14:30 | Arbeitsphase B                               |
+    | 14:30–15:00 | Ergebnisvorstellung und Abschluss            |
+
+![BildViktor](assets/viktor.png){ width="300" .center }
 /// caption
 ## Viktor Reichert
 
