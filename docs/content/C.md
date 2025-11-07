@@ -1,4 +1,4 @@
-# Weiter Aufgaben
+# Weitere Aufgaben
 
 In den folgenden Übungen finden Sie heraus, wie **Künstliche Intelligenz (KI)** Ihre tägliche Arbeit erleichtern kann.  
 
@@ -20,21 +20,11 @@ In den folgenden Übungen finden Sie heraus, wie **Künstliche Intelligenz (KI)*
 
     Formulieren Sie danach mit der KI eine passende Antwort.
 
-!!! example "Agenda & Protokoll schreiben"
-    Schreiben Sie 3 Stichpunkte für ein Meeting auf. Lassen Sie die KI daraus eine vollständige Agenda mit Zeiten erstellen.  
-
-    **Beispiel-Stichpunkte:**  
-    - Lieferstatus Schweißteile  
-    - Neue Sicherheitsrichtlinien  
-    - Planung Werksurlaub  
-
-
 !!! example "Probleme im Alltag lösen"
     Notieren Sie ein aktuelles Problem aus Ihrem Arbeitsbereich (z. B. „zu lange Meetings“, „hoher Dokumentationsaufwand“).  
     Fragen Sie die KI: *„Welche Lösungsansätze oder Automatisierungen gibt es dafür?“*  
 
 !!! example "Screenshots auswerten"
-
     Machen Sie einem Screenshot von einem Text (oder sogar einer Tabelle) und bitten Sie die KI
     darum den Text zu extrahieren.
 
@@ -55,6 +45,14 @@ In den folgenden Übungen finden Sie heraus, wie **Künstliche Intelligenz (KI)*
     Formulieren Sie eine Standard-Nachricht, die Sie häufig schreiben (z. B. „Bitte bestätigen Sie den Erhalt der Lieferung“).  
     Lassen Sie die KI daraus **5 Varianten** entwickeln, die Sie flexibel einsetzen können.  
     Bonus: Lassen Sie sich von der KI erklären, wie man diese Standardantworten korrekt in ihrem Mailing-Programm einbindet und anwendet.
+
+!!! example "Agenda & Protokoll schreiben"
+    Schreiben Sie 3 Stichpunkte für ein Meeting auf. Lassen Sie die KI daraus eine vollständige Agenda mit Zeiten erstellen.  
+
+    **Beispiel-Stichpunkte:**  
+    - Lieferstatus Schweißteile  
+    - Neue Sicherheitsrichtlinien  
+    - Planung Werksurlaub  
 
 !!! example "Verbesserte Suchmaschiene"
     Angenommen, sie suchen nach einem Video auf Youtube zu einem Fachthema (Z.B. Statistik). Nutzen Sie die KI,
@@ -92,4 +90,3 @@ In den folgenden Übungen finden Sie heraus, wie **Künstliche Intelligenz (KI)*
     |     | 02.03.2026 | 06.03.2026 | TZ    | Kundenspez. Anwendungsentwicklung                                    |                                            | Scherzer        |
     |     | 02.03.2026 | 06.03.2026 | TZ    | Kundenspez. Systemintegration                                        |                                            |                 |
     |     | 02.03.2026 | 06.03.2026 | VZ    | Versionierung von Softwareprodukten \| Algorithmen erstellen - Programmierung (OOP) |                          | Fink, Metze     |
-
