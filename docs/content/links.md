@@ -13,3 +13,9 @@
 - [:fontawesome-solid-external-link: Schulung, um die Frage zu klären, ob Copilot 365 gebraucht wird](https://volkswagen-net.de/wikis/spaces/wbit/pages/5845582630/Microsoft+Copilot+f%C3%BCr+Microsoft+365+Brauche+ich+das){ target=_blank rel="noopener noreferrer" }
 
 - [:fontawesome-solid-external-link: Themenseite Copilot](https://volkswagen-net.de/wikis/spaces/wbit/pages/6083380794/Themenseite+Copilot){ target=_blank rel="noopener noreferrer" }
+
+- [WIKI](https://volkswagen-net.de/wikis/spaces/wbit/pages/6083380794/Themenseite+Copilot)
+
+- [Community](https://engage.cloud.microsoft/main/org/volkswagengroup.onmicrosoft.com/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIzODA1Mzk2MTcyOSJ9)
+
+- [Promptsammlung](https://volkswagengroup.sharepoint.com/sites/IPCommunicationCollaboration/SitePages/de/M365-Copilot-Promptsammlung.aspx)
